@@ -14,7 +14,7 @@ __This will also be bold and not important__
 - [x] exploring nearby
 - [x] drinking soju
 - [ ] eating bibimbap
-We have an idiom in Turkey:
+# We have an idiom in Turkey:
 > A wise enemy is better 
 > than a mindless friend
 :brain:
